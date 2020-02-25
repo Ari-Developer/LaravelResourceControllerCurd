@@ -11,6 +11,6 @@ Steps:-
     3. Create Database into your phpmyadmin
     4. Setup .env with your database name, username & password
     5. Run command "php artisan migrate"
-    6. Run the project normally (not use port number)
+    6. Run the project normaly (not use port number)
 ```
 
