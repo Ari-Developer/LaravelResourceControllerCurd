@@ -20,7 +20,7 @@
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
   <ul class="navbar-nav">
     <li class="nav-item active">
-      <a class="nav-link" href="#">Developer Git-Profile</a>
+      <a class="nav-link" href="https://github.com/Ari-Developer">Developer Git-Profile</a>
     </li>
     @if(isset($menu) && $menu == 'index')
     <li class="nav-item">
