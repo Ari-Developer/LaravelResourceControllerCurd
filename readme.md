@@ -1,29 +1,15 @@
-# Foobar
+# Laravel Resource Controller CURD Application with Bootstrap 4
 
-Foobar is a Python library for dealing with word pluralization.
 
-## Installation
+## Project Run Information
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
+```
+Steps:-
+    1. Download the project file or use git clone
+    2. Run command "Composer Install"
+    3. Create Database into your phpmyadmin
+    4. Setup .env with your database name, username & password
+    5. Run command "php artisan migrate"
+    6. Run the project normally (not use port number)
 ```
 
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
